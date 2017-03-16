@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48aa1a40-7e66-4ecf-a189-131049447650" name="Default" comment="" />
+    <ignored path="redis-cache.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="redis-cache" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SpringRedisExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="111" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloseSuppressingInvocationHandler.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/CloseSuppressingInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2047#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1338#1339#0" expanded="false" />
+                <element signature="e#1365#1366#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisStringCommands.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisStringCommands.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#5913#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7193764">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="138" column="82" selection-start-line="138" selection-start-column="82" selection-end-line="138" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultValueOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#7224#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1458#1459#0" expanded="false" />
+                <element signature="e#1498#1499#0" expanded="false" />
+                <element signature="e#1735#1736#0" expanded="false" />
+                <element signature="e#1788#1789#0" expanded="false" />
+                <element signature="e#1992#1993#0" expanded="false" />
+                <element signature="e#2042#2043#0" expanded="false" />
+                <element signature="e#2253#2254#0" expanded="false" />
+                <element signature="e#2303#2304#0" expanded="false" />
+                <element signature="e#2919#2920#0" expanded="false" />
+                <element signature="e#2976#2977#0" expanded="false" />
+                <element signature="e#3423#3424#0" expanded="false" />
+                <element signature="e#3465#3466#0" expanded="false" />
+                <element signature="e#3672#3688#0" expanded="false" />
+                <element signature="e#4172#4188#0" expanded="false" />
+                <element signature="e#4446#4447#0" expanded="false" />
+                <element signature="e#4490#4491#0" expanded="false" />
+                <element signature="e#6579#6580#0" expanded="false" />
+                <element signature="e#6622#6623#0" expanded="false" />
+                <element signature="e#6869#6870#0" expanded="false" />
+                <element signature="e#6927#6928#0" expanded="false" />
+                <element signature="e#7152#7153#0" expanded="false" />
+                <element signature="e#7203#7204#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="greeting.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/ImageVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#292#293#0" expanded="false" />
+                <element signature="e#345#346#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValueOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#2001#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValueOperationsEditor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperationsEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1188#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZSetOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#3081#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/HashOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#1623#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultZSetOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultZSetOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#12196#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1325#1326#0" expanded="false" />
+                <element signature="e#1347#1348#0" expanded="false" />
+                <element signature="e#1606#1607#0" expanded="false" />
+                <element signature="e#1664#1665#0" expanded="false" />
+                <element signature="e#1927#1928#0" expanded="false" />
+                <element signature="e#1979#1980#0" expanded="false" />
+                <element signature="e#2249#2250#0" expanded="false" />
+                <element signature="e#2310#2311#0" expanded="false" />
+                <element signature="e#2742#2743#0" expanded="false" />
+                <element signature="e#2803#2804#0" expanded="false" />
+                <element signature="e#3053#3054#0" expanded="false" />
+                <element signature="e#3108#3109#0" expanded="false" />
+                <element signature="e#3405#3406#0" expanded="false" />
+                <element signature="e#3463#3464#0" expanded="false" />
+                <element signature="e#3772#3773#0" expanded="false" />
+                <element signature="e#3837#3838#0" expanded="false" />
+                <element signature="e#4530#4531#0" expanded="false" />
+                <element signature="e#4590#4591#0" expanded="false" />
+                <element signature="e#5307#5308#0" expanded="false" />
+                <element signature="e#5370#5371#0" expanded="false" />
+                <element signature="e#8511#8512#0" expanded="false" />
+                <element signature="e#8563#8564#0" expanded="false" />
+                <element signature="e#8785#8786#0" expanded="false" />
+                <element signature="e#8843#8844#0" expanded="false" />
+                <element signature="e#9074#9075#0" expanded="false" />
+                <element signature="e#9137#9138#0" expanded="false" />
+                <element signature="e#9375#9376#0" expanded="false" />
+                <element signature="e#9428#9429#0" expanded="false" />
+                <element signature="e#9647#9648#0" expanded="false" />
+                <element signature="e#9700#9701#0" expanded="false" />
+                <element signature="e#9864#9865#0" expanded="false" />
+                <element signature="e#9888#9889#0" expanded="false" />
+                <element signature="e#10178#10179#0" expanded="false" />
+                <element signature="e#10220#10221#0" expanded="false" />
+                <element signature="e#10640#10641#0" expanded="false" />
+                <element signature="e#10701#10702#0" expanded="false" />
+                <element signature="e#11397#11398#0" expanded="false" />
+                <element signature="e#11439#11440#0" expanded="false" />
+                <element signature="e#11698#11699#0" expanded="false" />
+                <element signature="e#11758#11759#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertingCursor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ConvertingCursor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#2858#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1735#1736#0" expanded="false" />
+                <element signature="e#1767#1768#0" expanded="false" />
+                <element signature="e#1860#1861#0" expanded="false" />
+                <element signature="e#1908#1909#0" expanded="false" />
+                <element signature="e#2008#2009#0" expanded="false" />
+                <element signature="e#2032#2033#0" expanded="false" />
+                <element signature="e#2305#2306#0" expanded="false" />
+                <element signature="e#2341#2342#0" expanded="false" />
+                <element signature="e#2472#2473#0" expanded="false" />
+                <element signature="e#2505#2506#0" expanded="false" />
+                <element signature="e#2817#2818#0" expanded="false" />
+                <element signature="e#2853#2854#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringRedisConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+              <folding>
+                <element signature="e#1093#1109#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#34089#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#11566#11567#0" expanded="false" />
+                <element signature="e#11601#11602#0" expanded="false" />
+                <element signature="e#12919#12920#0" expanded="false" />
+                <element signature="e#12966#12967#0" expanded="false" />
+                <element signature="e#13212#13213#0" expanded="false" />
+                <element signature="e#13249#13250#0" expanded="false" />
+                <element signature="e#13775#13776#0" expanded="false" />
+                <element signature="e#13806#13807#0" expanded="false" />
+                <element signature="e#14184#14185#0" expanded="false" />
+                <element signature="e#14226#14227#0" expanded="false" />
+                <element signature="e#14477#14478#0" expanded="false" />
+                <element signature="e#14515#14516#0" expanded="false" />
+                <element signature="e#14687#14688#0" expanded="false" />
+                <element signature="e#14714#14715#0" expanded="false" />
+                <element signature="e#14971#14972#0" expanded="false" />
+                <element signature="e#15011#15012#0" expanded="false" />
+                <element signature="e#15189#15190#0" expanded="false" />
+                <element signature="e#15218#15219#0" expanded="false" />
+                <element signature="e#15363#15364#0" expanded="false" />
+                <element signature="e#15394#15395#0" expanded="false" />
+                <element signature="e#15661#15662#0" expanded="false" />
+                <element signature="e#15710#15711#0" expanded="false" />
+                <element signature="e#15861#15862#0" expanded="false" />
+                <element signature="e#15894#15895#0" expanded="false" />
+                <element signature="e#16360#16361#0" expanded="false" />
+                <element signature="e#16390#16391#0" expanded="false" />
+                <element signature="e#16763#16764#0" expanded="false" />
+                <element signature="e#16810#16811#0" expanded="false" />
+                <element signature="e#16976#16977#0" expanded="false" />
+                <element signature="e#17019#17020#0" expanded="false" />
+                <element signature="e#17304#17305#0" expanded="false" />
+                <element signature="e#17349#17350#0" expanded="false" />
+                <element signature="e#18230#18238#0" expanded="false" />
+                <element signature="e#19776#19791#0" expanded="false" />
+                <element signature="e#22012#22013#0" expanded="false" />
+                <element signature="e#22055#22056#0" expanded="false" />
+                <element signature="e#23610#23611#0" expanded="false" />
+                <element signature="e#23650#23651#0" expanded="false" />
+                <element signature="e#24384#24385#0" expanded="false" />
+                <element signature="e#24425#24426#0" expanded="false" />
+                <element signature="e#24719#24720#0" expanded="false" />
+                <element signature="e#24763#24764#0" expanded="false" />
+                <element signature="e#24973#24974#0" expanded="false" />
+                <element signature="e#25023#25024#0" expanded="false" />
+                <element signature="e#25177#25178#0" expanded="false" />
+                <element signature="e#25217#25218#0" expanded="false" />
+                <element signature="e#25824#25825#0" expanded="false" />
+                <element signature="e#25883#25884#0" expanded="false" />
+                <element signature="e#26077#26078#0" expanded="false" />
+                <element signature="e#26118#26119#0" expanded="false" />
+                <element signature="e#26703#26704#0" expanded="false" />
+                <element signature="e#26744#26745#0" expanded="false" />
+                <element signature="e#28886#28887#0" expanded="false" />
+                <element signature="e#28928#28929#0" expanded="false" />
+                <element signature="e#30821#30822#0" expanded="false" />
+                <element signature="e#30883#30884#0" expanded="false" />
+                <element signature="e#31240#31241#0" expanded="false" />
+                <element signature="e#31301#31302#0" expanded="false" />
+                <element signature="e#31356#31357#0" expanded="false" />
+                <element signature="e#31416#31417#0" expanded="false" />
+                <element signature="e#31614#31615#0" expanded="false" />
+                <element signature="e#31675#31676#0" expanded="false" />
+                <element signature="e#32303#32304#0" expanded="false" />
+                <element signature="e#32359#32360#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractOperations.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/AbstractOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#8521#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1726#1727#0" expanded="false" />
+                <element signature="e#1749#1750#0" expanded="false" />
+                <element signature="e#2069#2070#0" expanded="false" />
+                <element signature="e#2100#2101#0" expanded="false" />
+                <element signature="e#2136#2137#0" expanded="false" />
+                <element signature="e#2177#2178#0" expanded="false" />
+                <element signature="e#2215#2216#0" expanded="false" />
+                <element signature="e#2258#2259#0" expanded="false" />
+                <element signature="e#2298#2299#0" expanded="false" />
+                <element signature="e#2343#2344#0" expanded="false" />
+                <element signature="e#2385#2386#0" expanded="false" />
+                <element signature="e#2432#2433#0" expanded="false" />
+                <element signature="e#2471#2472#0" expanded="false" />
+                <element signature="e#2515#2516#0" expanded="false" />
+                <element signature="e#2571#2572#0" expanded="false" />
+                <element signature="e#2614#2615#0" expanded="false" />
+                <element signature="e#2663#2664#0" expanded="false" />
+                <element signature="e#2685#2686#0" expanded="false" />
+                <element signature="e#2990#2991#0" expanded="false" />
+                <element signature="e#3037#3038#0" expanded="false" />
+                <element signature="e#4841#4842#0" expanded="false" />
+                <element signature="e#4874#4875#0" expanded="false" />
+                <element signature="e#5541#5556#0" expanded="false" />
+                <element signature="e#6139#6146#0" expanded="false" />
+                <element signature="e#7442#7450#0" expanded="false" />
+                <element signature="e#8053#8054#0" expanded="false" />
+                <element signature="e#8113#8114#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisCache.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="366" column="28" selection-start-line="366" selection-start-column="19" selection-end-line="366" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18462#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6700#6701#0" expanded="false" />
+                <element signature="e#6742#6743#0" expanded="false" />
+                <element signature="e#6939#6940#0" expanded="false" />
+                <element signature="e#6961#6962#0" expanded="false" />
+                <element signature="e#7010#7011#0" expanded="false" />
+                <element signature="e#7078#7079#0" expanded="false" />
+                <element signature="e#8231#8232#0" expanded="false" />
+                <element signature="e#8290#8291#0" expanded="false" />
+                <element signature="e#8432#8433#0" expanded="false" />
+                <element signature="e#8462#8463#0" expanded="false" />
+                <element signature="e#8664#8665#0" expanded="false" />
+                <element signature="e#8694#8695#0" expanded="false" />
+                <element signature="e#8886#8887#0" expanded="false" />
+                <element signature="e#8915#8916#0" expanded="false" />
+                <element signature="e#9012#9013#0" expanded="false" />
+                <element signature="e#9037#9038#0" expanded="false" />
+                <element signature="e#9185#9186#0" expanded="false" />
+                <element signature="e#9226#9227#0" expanded="false" />
+                <element signature="e#9346#9347#0" expanded="false" />
+                <element signature="e#9379#9380#0" expanded="false" />
+                <element signature="e#9651#9652#0" expanded="false" />
+                <element signature="e#9698#9699#0" expanded="false" />
+                <element signature="e#12381#12382#0" expanded="false" />
+                <element signature="e#12414#12415#0" expanded="false" />
+                <element signature="e#15578#15579#0" expanded="false" />
+                <element signature="e#15611#15612#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/successfactors/redis/Application.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/greeting.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/greeting.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/successfactors/redis/ImageVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redis-cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redis-cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redis-cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\prototypes\redis\redis-cache\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.successfactors.redis.Application" />
+      <module name="redis-cache" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SpringRedisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.successfactors.redis.SpringRedisExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="redis-cache" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SpringRedisExample" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SpringRedisExample" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48aa1a40-7e66-4ecf-a189-131049447650" name="Default" comment="" />
+      <created>1476991330007</created>
+      <option name="number" value="Default" />
+      <updated>1476991330007</updated>
+      <workItem from="1476991332971" duration="2923000" />
+      <workItem from="1477059470033" duration="31932000" />
+      <workItem from="1477920602878" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35673000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48775056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29175946" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="values.get(&quot;searsLogo&quot;)" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="values.get(&quot;searsLogo&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/CloseSuppressingInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2047#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1338#1339#0" expanded="false" />
+            <element signature="e#1365#1366#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisStringCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#5913#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="82" selection-start-line="138" selection-start-column="82" selection-end-line="138" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#7224#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1458#1459#0" expanded="false" />
+            <element signature="e#1498#1499#0" expanded="false" />
+            <element signature="e#1735#1736#0" expanded="false" />
+            <element signature="e#1788#1789#0" expanded="false" />
+            <element signature="e#1992#1993#0" expanded="false" />
+            <element signature="e#2042#2043#0" expanded="false" />
+            <element signature="e#2253#2254#0" expanded="false" />
+            <element signature="e#2303#2304#0" expanded="false" />
+            <element signature="e#2919#2920#0" expanded="false" />
+            <element signature="e#2976#2977#0" expanded="false" />
+            <element signature="e#3423#3424#0" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
+            <element signature="e#3672#3688#0" expanded="false" />
+            <element signature="e#4172#4188#0" expanded="false" />
+            <element signature="e#4446#4447#0" expanded="false" />
+            <element signature="e#4490#4491#0" expanded="false" />
+            <element signature="e#6579#6580#0" expanded="false" />
+            <element signature="e#6622#6623#0" expanded="false" />
+            <element signature="e#6869#6870#0" expanded="false" />
+            <element signature="e#6927#6928#0" expanded="false" />
+            <element signature="e#7152#7153#0" expanded="false" />
+            <element signature="e#7203#7204#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/ImageVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#2001#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperationsEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#3081#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/HashOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1623#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#12196#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1325#1326#0" expanded="false" />
+            <element signature="e#1347#1348#0" expanded="false" />
+            <element signature="e#1606#1607#0" expanded="false" />
+            <element signature="e#1664#1665#0" expanded="false" />
+            <element signature="e#1927#1928#0" expanded="false" />
+            <element signature="e#1979#1980#0" expanded="false" />
+            <element signature="e#2249#2250#0" expanded="false" />
+            <element signature="e#2310#2311#0" expanded="false" />
+            <element signature="e#2742#2743#0" expanded="false" />
+            <element signature="e#2803#2804#0" expanded="false" />
+            <element signature="e#3053#3054#0" expanded="false" />
+            <element signature="e#3108#3109#0" expanded="false" />
+            <element signature="e#3405#3406#0" expanded="false" />
+            <element signature="e#3463#3464#0" expanded="false" />
+            <element signature="e#3772#3773#0" expanded="false" />
+            <element signature="e#3837#3838#0" expanded="false" />
+            <element signature="e#4530#4531#0" expanded="false" />
+            <element signature="e#4590#4591#0" expanded="false" />
+            <element signature="e#5307#5308#0" expanded="false" />
+            <element signature="e#5370#5371#0" expanded="false" />
+            <element signature="e#8511#8512#0" expanded="false" />
+            <element signature="e#8563#8564#0" expanded="false" />
+            <element signature="e#8785#8786#0" expanded="false" />
+            <element signature="e#8843#8844#0" expanded="false" />
+            <element signature="e#9074#9075#0" expanded="false" />
+            <element signature="e#9137#9138#0" expanded="false" />
+            <element signature="e#9375#9376#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9647#9648#0" expanded="false" />
+            <element signature="e#9700#9701#0" expanded="false" />
+            <element signature="e#9864#9865#0" expanded="false" />
+            <element signature="e#9888#9889#0" expanded="false" />
+            <element signature="e#10178#10179#0" expanded="false" />
+            <element signature="e#10220#10221#0" expanded="false" />
+            <element signature="e#10640#10641#0" expanded="false" />
+            <element signature="e#10701#10702#0" expanded="false" />
+            <element signature="e#11397#11398#0" expanded="false" />
+            <element signature="e#11439#11440#0" expanded="false" />
+            <element signature="e#11698#11699#0" expanded="false" />
+            <element signature="e#11758#11759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ConvertingCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2858#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1735#1736#0" expanded="false" />
+            <element signature="e#1767#1768#0" expanded="false" />
+            <element signature="e#1860#1861#0" expanded="false" />
+            <element signature="e#1908#1909#0" expanded="false" />
+            <element signature="e#2008#2009#0" expanded="false" />
+            <element signature="e#2032#2033#0" expanded="false" />
+            <element signature="e#2305#2306#0" expanded="false" />
+            <element signature="e#2341#2342#0" expanded="false" />
+            <element signature="e#2472#2473#0" expanded="false" />
+            <element signature="e#2505#2506#0" expanded="false" />
+            <element signature="e#2817#2818#0" expanded="false" />
+            <element signature="e#2853#2854#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <element signature="e#1093#1109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34089#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11566#11567#0" expanded="false" />
+            <element signature="e#11601#11602#0" expanded="false" />
+            <element signature="e#12919#12920#0" expanded="false" />
+            <element signature="e#12966#12967#0" expanded="false" />
+            <element signature="e#13212#13213#0" expanded="false" />
+            <element signature="e#13249#13250#0" expanded="false" />
+            <element signature="e#13775#13776#0" expanded="false" />
+            <element signature="e#13806#13807#0" expanded="false" />
+            <element signature="e#14184#14185#0" expanded="false" />
+            <element signature="e#14226#14227#0" expanded="false" />
+            <element signature="e#14477#14478#0" expanded="false" />
+            <element signature="e#14515#14516#0" expanded="false" />
+            <element signature="e#14687#14688#0" expanded="false" />
+            <element signature="e#14714#14715#0" expanded="false" />
+            <element signature="e#14971#14972#0" expanded="false" />
+            <element signature="e#15011#15012#0" expanded="false" />
+            <element signature="e#15189#15190#0" expanded="false" />
+            <element signature="e#15218#15219#0" expanded="false" />
+            <element signature="e#15363#15364#0" expanded="false" />
+            <element signature="e#15394#15395#0" expanded="false" />
+            <element signature="e#15661#15662#0" expanded="false" />
+            <element signature="e#15710#15711#0" expanded="false" />
+            <element signature="e#15861#15862#0" expanded="false" />
+            <element signature="e#15894#15895#0" expanded="false" />
+            <element signature="e#16360#16361#0" expanded="false" />
+            <element signature="e#16390#16391#0" expanded="false" />
+            <element signature="e#16763#16764#0" expanded="false" />
+            <element signature="e#16810#16811#0" expanded="false" />
+            <element signature="e#16976#16977#0" expanded="false" />
+            <element signature="e#17019#17020#0" expanded="false" />
+            <element signature="e#17304#17305#0" expanded="false" />
+            <element signature="e#17349#17350#0" expanded="false" />
+            <element signature="e#18230#18238#0" expanded="false" />
+            <element signature="e#19776#19791#0" expanded="false" />
+            <element signature="e#22012#22013#0" expanded="false" />
+            <element signature="e#22055#22056#0" expanded="false" />
+            <element signature="e#23610#23611#0" expanded="false" />
+            <element signature="e#23650#23651#0" expanded="false" />
+            <element signature="e#24384#24385#0" expanded="false" />
+            <element signature="e#24425#24426#0" expanded="false" />
+            <element signature="e#24719#24720#0" expanded="false" />
+            <element signature="e#24763#24764#0" expanded="false" />
+            <element signature="e#24973#24974#0" expanded="false" />
+            <element signature="e#25023#25024#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25217#25218#0" expanded="false" />
+            <element signature="e#25824#25825#0" expanded="false" />
+            <element signature="e#25883#25884#0" expanded="false" />
+            <element signature="e#26077#26078#0" expanded="false" />
+            <element signature="e#26118#26119#0" expanded="false" />
+            <element signature="e#26703#26704#0" expanded="false" />
+            <element signature="e#26744#26745#0" expanded="false" />
+            <element signature="e#28886#28887#0" expanded="false" />
+            <element signature="e#28928#28929#0" expanded="false" />
+            <element signature="e#30821#30822#0" expanded="false" />
+            <element signature="e#30883#30884#0" expanded="false" />
+            <element signature="e#31240#31241#0" expanded="false" />
+            <element signature="e#31301#31302#0" expanded="false" />
+            <element signature="e#31356#31357#0" expanded="false" />
+            <element signature="e#31416#31417#0" expanded="false" />
+            <element signature="e#31614#31615#0" expanded="false" />
+            <element signature="e#31675#31676#0" expanded="false" />
+            <element signature="e#32303#32304#0" expanded="false" />
+            <element signature="e#32359#32360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/AbstractOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#8521#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1726#1727#0" expanded="false" />
+            <element signature="e#1749#1750#0" expanded="false" />
+            <element signature="e#2069#2070#0" expanded="false" />
+            <element signature="e#2100#2101#0" expanded="false" />
+            <element signature="e#2136#2137#0" expanded="false" />
+            <element signature="e#2177#2178#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2258#2259#0" expanded="false" />
+            <element signature="e#2298#2299#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2385#2386#0" expanded="false" />
+            <element signature="e#2432#2433#0" expanded="false" />
+            <element signature="e#2471#2472#0" expanded="false" />
+            <element signature="e#2515#2516#0" expanded="false" />
+            <element signature="e#2571#2572#0" expanded="false" />
+            <element signature="e#2614#2615#0" expanded="false" />
+            <element signature="e#2663#2664#0" expanded="false" />
+            <element signature="e#2685#2686#0" expanded="false" />
+            <element signature="e#2990#2991#0" expanded="false" />
+            <element signature="e#3037#3038#0" expanded="false" />
+            <element signature="e#4841#4842#0" expanded="false" />
+            <element signature="e#4874#4875#0" expanded="false" />
+            <element signature="e#5541#5556#0" expanded="false" />
+            <element signature="e#6139#6146#0" expanded="false" />
+            <element signature="e#7442#7450#0" expanded="false" />
+            <element signature="e#8053#8054#0" expanded="false" />
+            <element signature="e#8113#8114#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="366" column="28" selection-start-line="366" selection-start-column="19" selection-end-line="366" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18462#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6700#6701#0" expanded="false" />
+            <element signature="e#6742#6743#0" expanded="false" />
+            <element signature="e#6939#6940#0" expanded="false" />
+            <element signature="e#6961#6962#0" expanded="false" />
+            <element signature="e#7010#7011#0" expanded="false" />
+            <element signature="e#7078#7079#0" expanded="false" />
+            <element signature="e#8231#8232#0" expanded="false" />
+            <element signature="e#8290#8291#0" expanded="false" />
+            <element signature="e#8432#8433#0" expanded="false" />
+            <element signature="e#8462#8463#0" expanded="false" />
+            <element signature="e#8664#8665#0" expanded="false" />
+            <element signature="e#8694#8695#0" expanded="false" />
+            <element signature="e#8886#8887#0" expanded="false" />
+            <element signature="e#8915#8916#0" expanded="false" />
+            <element signature="e#9012#9013#0" expanded="false" />
+            <element signature="e#9037#9038#0" expanded="false" />
+            <element signature="e#9185#9186#0" expanded="false" />
+            <element signature="e#9226#9227#0" expanded="false" />
+            <element signature="e#9346#9347#0" expanded="false" />
+            <element signature="e#9379#9380#0" expanded="false" />
+            <element signature="e#9651#9652#0" expanded="false" />
+            <element signature="e#9698#9699#0" expanded="false" />
+            <element signature="e#12381#12382#0" expanded="false" />
+            <element signature="e#12414#12415#0" expanded="false" />
+            <element signature="e#15578#15579#0" expanded="false" />
+            <element signature="e#15611#15612#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1093#1109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1773913">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/serializer/RedisSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/serializer/GenericToStringSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/serializer/StringRedisSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/SetOperationsEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#7224#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1458#1459#0" expanded="false" />
+            <element signature="e#1498#1499#0" expanded="false" />
+            <element signature="e#1735#1736#0" expanded="false" />
+            <element signature="e#1788#1789#0" expanded="false" />
+            <element signature="e#1992#1993#0" expanded="false" />
+            <element signature="e#2042#2043#0" expanded="false" />
+            <element signature="e#2253#2254#0" expanded="false" />
+            <element signature="e#2303#2304#0" expanded="false" />
+            <element signature="e#2919#2920#0" expanded="false" />
+            <element signature="e#2976#2977#0" expanded="false" />
+            <element signature="e#3423#3424#0" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
+            <element signature="e#3672#3688#0" expanded="false" />
+            <element signature="e#4172#4188#0" expanded="false" />
+            <element signature="e#4446#4447#0" expanded="false" />
+            <element signature="e#4490#4491#0" expanded="false" />
+            <element signature="e#6579#6580#0" expanded="false" />
+            <element signature="e#6622#6623#0" expanded="false" />
+            <element signature="e#6869#6870#0" expanded="false" />
+            <element signature="e#6927#6928#0" expanded="false" />
+            <element signature="e#7152#7153#0" expanded="false" />
+            <element signature="e#7203#7204#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#2001#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperationsEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#3081#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/HashOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1623#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultZSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#12196#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1325#1326#0" expanded="false" />
+            <element signature="e#1347#1348#0" expanded="false" />
+            <element signature="e#1606#1607#0" expanded="false" />
+            <element signature="e#1664#1665#0" expanded="false" />
+            <element signature="e#1927#1928#0" expanded="false" />
+            <element signature="e#1979#1980#0" expanded="false" />
+            <element signature="e#2249#2250#0" expanded="false" />
+            <element signature="e#2310#2311#0" expanded="false" />
+            <element signature="e#2742#2743#0" expanded="false" />
+            <element signature="e#2803#2804#0" expanded="false" />
+            <element signature="e#3053#3054#0" expanded="false" />
+            <element signature="e#3108#3109#0" expanded="false" />
+            <element signature="e#3405#3406#0" expanded="false" />
+            <element signature="e#3463#3464#0" expanded="false" />
+            <element signature="e#3772#3773#0" expanded="false" />
+            <element signature="e#3837#3838#0" expanded="false" />
+            <element signature="e#4530#4531#0" expanded="false" />
+            <element signature="e#4590#4591#0" expanded="false" />
+            <element signature="e#5307#5308#0" expanded="false" />
+            <element signature="e#5370#5371#0" expanded="false" />
+            <element signature="e#8511#8512#0" expanded="false" />
+            <element signature="e#8563#8564#0" expanded="false" />
+            <element signature="e#8785#8786#0" expanded="false" />
+            <element signature="e#8843#8844#0" expanded="false" />
+            <element signature="e#9074#9075#0" expanded="false" />
+            <element signature="e#9137#9138#0" expanded="false" />
+            <element signature="e#9375#9376#0" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9647#9648#0" expanded="false" />
+            <element signature="e#9700#9701#0" expanded="false" />
+            <element signature="e#9864#9865#0" expanded="false" />
+            <element signature="e#9888#9889#0" expanded="false" />
+            <element signature="e#10178#10179#0" expanded="false" />
+            <element signature="e#10220#10221#0" expanded="false" />
+            <element signature="e#10640#10641#0" expanded="false" />
+            <element signature="e#10701#10702#0" expanded="false" />
+            <element signature="e#11397#11398#0" expanded="false" />
+            <element signature="e#11439#11440#0" expanded="false" />
+            <element signature="e#11698#11699#0" expanded="false" />
+            <element signature="e#11758#11759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/ConvertingCursor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2858#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1735#1736#0" expanded="false" />
+            <element signature="e#1767#1768#0" expanded="false" />
+            <element signature="e#1860#1861#0" expanded="false" />
+            <element signature="e#1908#1909#0" expanded="false" />
+            <element signature="e#2008#2009#0" expanded="false" />
+            <element signature="e#2032#2033#0" expanded="false" />
+            <element signature="e#2305#2306#0" expanded="false" />
+            <element signature="e#2341#2342#0" expanded="false" />
+            <element signature="e#2472#2473#0" expanded="false" />
+            <element signature="e#2505#2506#0" expanded="false" />
+            <element signature="e#2817#2818#0" expanded="false" />
+            <element signature="e#2853#2854#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/AbstractOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#8521#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1726#1727#0" expanded="false" />
+            <element signature="e#1749#1750#0" expanded="false" />
+            <element signature="e#2069#2070#0" expanded="false" />
+            <element signature="e#2100#2101#0" expanded="false" />
+            <element signature="e#2136#2137#0" expanded="false" />
+            <element signature="e#2177#2178#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2258#2259#0" expanded="false" />
+            <element signature="e#2298#2299#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2385#2386#0" expanded="false" />
+            <element signature="e#2432#2433#0" expanded="false" />
+            <element signature="e#2471#2472#0" expanded="false" />
+            <element signature="e#2515#2516#0" expanded="false" />
+            <element signature="e#2571#2572#0" expanded="false" />
+            <element signature="e#2614#2615#0" expanded="false" />
+            <element signature="e#2663#2664#0" expanded="false" />
+            <element signature="e#2685#2686#0" expanded="false" />
+            <element signature="e#2990#2991#0" expanded="false" />
+            <element signature="e#3037#3038#0" expanded="false" />
+            <element signature="e#4841#4842#0" expanded="false" />
+            <element signature="e#4874#4875#0" expanded="false" />
+            <element signature="e#5541#5556#0" expanded="false" />
+            <element signature="e#6139#6146#0" expanded="false" />
+            <element signature="e#7442#7450#0" expanded="false" />
+            <element signature="e#8053#8054#0" expanded="false" />
+            <element signature="e#8113#8114#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="366" column="28" selection-start-line="366" selection-start-column="19" selection-end-line="366" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18462#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6700#6701#0" expanded="false" />
+            <element signature="e#6742#6743#0" expanded="false" />
+            <element signature="e#6939#6940#0" expanded="false" />
+            <element signature="e#6961#6962#0" expanded="false" />
+            <element signature="e#7010#7011#0" expanded="false" />
+            <element signature="e#7078#7079#0" expanded="false" />
+            <element signature="e#8231#8232#0" expanded="false" />
+            <element signature="e#8290#8291#0" expanded="false" />
+            <element signature="e#8432#8433#0" expanded="false" />
+            <element signature="e#8462#8463#0" expanded="false" />
+            <element signature="e#8664#8665#0" expanded="false" />
+            <element signature="e#8694#8695#0" expanded="false" />
+            <element signature="e#8886#8887#0" expanded="false" />
+            <element signature="e#8915#8916#0" expanded="false" />
+            <element signature="e#9012#9013#0" expanded="false" />
+            <element signature="e#9037#9038#0" expanded="false" />
+            <element signature="e#9185#9186#0" expanded="false" />
+            <element signature="e#9226#9227#0" expanded="false" />
+            <element signature="e#9346#9347#0" expanded="false" />
+            <element signature="e#9379#9380#0" expanded="false" />
+            <element signature="e#9651#9652#0" expanded="false" />
+            <element signature="e#9698#9699#0" expanded="false" />
+            <element signature="e#12381#12382#0" expanded="false" />
+            <element signature="e#12414#12415#0" expanded="false" />
+            <element signature="e#15578#15579#0" expanded="false" />
+            <element signature="e#15611#15612#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/ImageVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/CloseSuppressingInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2047#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1338#1339#0" expanded="false" />
+            <element signature="e#1365#1366#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisStringCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#5913#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.5.0.RELEASE/spring-data-redis-1.5.0.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34089#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11566#11567#0" expanded="false" />
+            <element signature="e#11601#11602#0" expanded="false" />
+            <element signature="e#12919#12920#0" expanded="false" />
+            <element signature="e#12966#12967#0" expanded="false" />
+            <element signature="e#13212#13213#0" expanded="false" />
+            <element signature="e#13249#13250#0" expanded="false" />
+            <element signature="e#13775#13776#0" expanded="false" />
+            <element signature="e#13806#13807#0" expanded="false" />
+            <element signature="e#14184#14185#0" expanded="false" />
+            <element signature="e#14226#14227#0" expanded="false" />
+            <element signature="e#14477#14478#0" expanded="false" />
+            <element signature="e#14515#14516#0" expanded="false" />
+            <element signature="e#14687#14688#0" expanded="false" />
+            <element signature="e#14714#14715#0" expanded="false" />
+            <element signature="e#14971#14972#0" expanded="false" />
+            <element signature="e#15011#15012#0" expanded="false" />
+            <element signature="e#15189#15190#0" expanded="false" />
+            <element signature="e#15218#15219#0" expanded="false" />
+            <element signature="e#15363#15364#0" expanded="false" />
+            <element signature="e#15394#15395#0" expanded="false" />
+            <element signature="e#15661#15662#0" expanded="false" />
+            <element signature="e#15710#15711#0" expanded="false" />
+            <element signature="e#15861#15862#0" expanded="false" />
+            <element signature="e#15894#15895#0" expanded="false" />
+            <element signature="e#16360#16361#0" expanded="false" />
+            <element signature="e#16390#16391#0" expanded="false" />
+            <element signature="e#16763#16764#0" expanded="false" />
+            <element signature="e#16810#16811#0" expanded="false" />
+            <element signature="e#16976#16977#0" expanded="false" />
+            <element signature="e#17019#17020#0" expanded="false" />
+            <element signature="e#17304#17305#0" expanded="false" />
+            <element signature="e#17349#17350#0" expanded="false" />
+            <element signature="e#18230#18238#0" expanded="false" />
+            <element signature="e#19776#19791#0" expanded="false" />
+            <element signature="e#22012#22013#0" expanded="false" />
+            <element signature="e#22055#22056#0" expanded="false" />
+            <element signature="e#23610#23611#0" expanded="false" />
+            <element signature="e#23650#23651#0" expanded="false" />
+            <element signature="e#24384#24385#0" expanded="false" />
+            <element signature="e#24425#24426#0" expanded="false" />
+            <element signature="e#24719#24720#0" expanded="false" />
+            <element signature="e#24763#24764#0" expanded="false" />
+            <element signature="e#24973#24974#0" expanded="false" />
+            <element signature="e#25023#25024#0" expanded="false" />
+            <element signature="e#25177#25178#0" expanded="false" />
+            <element signature="e#25217#25218#0" expanded="false" />
+            <element signature="e#25824#25825#0" expanded="false" />
+            <element signature="e#25883#25884#0" expanded="false" />
+            <element signature="e#26077#26078#0" expanded="false" />
+            <element signature="e#26118#26119#0" expanded="false" />
+            <element signature="e#26703#26704#0" expanded="false" />
+            <element signature="e#26744#26745#0" expanded="false" />
+            <element signature="e#28886#28887#0" expanded="false" />
+            <element signature="e#28928#28929#0" expanded="false" />
+            <element signature="e#30821#30822#0" expanded="false" />
+            <element signature="e#30883#30884#0" expanded="false" />
+            <element signature="e#31240#31241#0" expanded="false" />
+            <element signature="e#31301#31302#0" expanded="false" />
+            <element signature="e#31356#31357#0" expanded="false" />
+            <element signature="e#31416#31417#0" expanded="false" />
+            <element signature="e#31614#31615#0" expanded="false" />
+            <element signature="e#31675#31676#0" expanded="false" />
+            <element signature="e#32303#32304#0" expanded="false" />
+            <element signature="e#32359#32360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <element signature="e#1093#1109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/SpringRedisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="138" column="82" selection-start-line="138" selection-start-column="82" selection-end-line="138" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/successfactors/redis/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7193764">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>sapjvm-1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>redis-cache</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33693695" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

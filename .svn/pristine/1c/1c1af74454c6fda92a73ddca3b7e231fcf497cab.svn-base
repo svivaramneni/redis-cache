@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<!--<%@ page import="java.util.Base64" %>-->
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p th:text="'Hello, ' + ${name} + '!'" />
+<p th:text="'Image Name, ' + ${imageVO.imageName} + '!'" />
+<p th:text="Image" > ${imageVO.imageContent} ${imageVO.imageName} </p>
+
+<input id="imgTest" type="hidden" value="${imageVO.imageContent}"/>
+
+<img id="profileImage" src="${imageVO.imageContent}"/>
+
+<!--<% String encodedImage = Base64.encode(product.getImg()); %>-->
+
+<img src="'data:image/gif;base64,' + ${imageVO.imageContent} + "/>
+
+<p th:text="'Image Content, ' + ${imageVO.imageContent} + '!'" />
+
+</body>
+</html>
